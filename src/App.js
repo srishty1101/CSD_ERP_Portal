@@ -23,7 +23,7 @@ function App() {
         <Route path='/' exact component={home} />
         <Route path='/reports' component={reports} />
           <Route path='/profile' component={profile} />
-          <Route path='/assessment' component={assessment} />
+          <Route path='/assessment'  component={assessment} />
           <Route path='/grievance' component={grievance} />
           <Route path='/task' component={task} />
           
