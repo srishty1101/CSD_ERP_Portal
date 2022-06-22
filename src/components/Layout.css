@@ -1,0 +1,20 @@
+
+.containter1{
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.content{
+    display:block;
+    color:#444;
+    border:1px solid #CCC;
+    background-color: #808080;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    cursor:pointer;
+    
+    max-width: 300px;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+}
