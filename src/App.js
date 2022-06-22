@@ -27,8 +27,7 @@ function App() {
           <Route path='/grievance' component={grievance} />
           <Route path='/task' component={task} />
           
-          
-        </Routes>
+          </Routes>
        
       </Router>
  </>
